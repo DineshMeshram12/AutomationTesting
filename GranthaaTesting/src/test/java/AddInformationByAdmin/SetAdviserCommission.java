@@ -30,7 +30,7 @@ public class SetAdviserCommission {
 			 wait.until(ExpectedConditions.urlContains("/admin"));
 			 
 			 //NOW open add_location (session exists now)
-			 driver.get("https://granthaadeveloperpvtltd.com/pms/leader/set_commission");
+			 driver.get("https://granthaadeveloperpvtltd.com/qa/leader/set_commission");
 			 
 			 
 			 //Select Site location
